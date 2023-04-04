@@ -42,7 +42,8 @@ Anyang University
 
 |Company|Date|
 |:---:|:---:|
-|Apexsoft|2018~|
+|Apexsoft|2018.08 ~ 2023.01|
+|Curly|2023.04 ~|
 
 <br>
 
